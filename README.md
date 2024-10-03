@@ -1,1 +1,1 @@
-software engineering project - testing whether workflow is up and running!
+software engineering project - testing workflow
